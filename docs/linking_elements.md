@@ -41,4 +41,4 @@ picture can't be shown:
 ![jpg_with_path_outside_repository](../../../Desktop/Z_pulpitu/swans.jpg)  
 
 Good practice:
-![path_within_repository](../Markdown-Exercise/Photos/swans.jpg "jpg inside repository folder")
+![path_within_repository](../images/swans.jpg "jpg inside repository folder")
