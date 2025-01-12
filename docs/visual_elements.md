@@ -22,7 +22,7 @@ This is a quote:
 
  > This is a third quote.
 
- ### Code and formulas
+### Code and formulas
 
 #### Code frase
 
