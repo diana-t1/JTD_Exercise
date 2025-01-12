@@ -7,6 +7,9 @@ nav_order: 2
 
 # Title <!-- omit in toc -->
 
+1. TOC
+{:toc}
+
 This is the first paragraph of my file.
 
 This is the second paragraph of my file.
