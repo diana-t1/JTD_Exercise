@@ -1,13 +1,18 @@
 ---
-title: Mardown demo index
+title: Index
 layout: default
 nav_order: 2
 ---
 
 
-# Title <!-- omit in toc -->
+# Index {: .no_toc }
 
 1. TOC
+2. TOC
+3. TOC
+4. TOC
+5. TOC
+6. TOC
 {:toc}
 
 This is the first paragraph of my file.
