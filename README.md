@@ -1,3 +1,5 @@
+## Delete the contents of the file and include a comprehensive description ##.
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
