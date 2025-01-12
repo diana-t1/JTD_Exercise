@@ -1,19 +1,11 @@
 ---
-title: Index
+title: Markdown first steps
 layout: default
 nav_order: 2
 ---
 
 
-# Index {: .no_toc }
-
-1. TOC
-2. TOC
-3. TOC
-4. TOC
-5. TOC
-6. TOC
-{:toc}
+# Markdown first steps 
 
 This is the first paragraph of my file.
 
