@@ -8,6 +8,8 @@ nav_order: 4
 
 ### Links to content
 
+This section is about creating links to content.
+
 #### External
 
 Example: https://www.meteo.pl/
